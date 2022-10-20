@@ -34,7 +34,7 @@
 		</div>
 	</header>
 	<main>메인</main>
-	<footer>풋터</footer>
+	<footer>footter</footer>
  </div>
 </div>	
 </body>

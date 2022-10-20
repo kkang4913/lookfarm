@@ -1,0 +1,51 @@
+@charset "UTF-8";
+
+.nav-container{
+	height:4rem; 
+	background-color: black;
+	overflow: inherit;
+	display: block;
+}
+
+.nav-form{
+	padding: 0 3rem;
+	width: 100%;	
+}
+
+.nav-font{
+	display: inline-block;;
+	margin-top: 1.1rem;
+	font-size: 1.4rem;
+	color: var(--white);
+}
+
+
+.header-container{
+	height: 8rem;
+	border-bottom: 1px solid var(--deepgrey);
+}
+
+.header-form{
+	display: flex;
+	align-items: center;
+	width: 102.4rem;
+	margin: 0 auto;
+	height: 100%;
+	max-width: 114rem;
+}
+
+.home-logo{
+	width: 15rem;
+}
+.home-logo-font{
+	margin-right: 20rem;
+	position: relative;
+	bottom: 1.8rem;
+	left: -1rem;
+}
+
+.input-form{
+	width: 46rem;
+	height: 2.7rem;
+	margin-right: 4rem;
+}
